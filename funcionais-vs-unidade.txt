@@ -1,0 +1,2 @@
+O teste de unidade testa uma unidade de comportamento independente, como por exemplo um método.
+O teste de funcionalidade testa uma parte que compreende uma funcionalidade, que pode significar muitos métodos, objetos ou até camadas da arquitetura.
